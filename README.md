@@ -5,7 +5,7 @@ using React.js
 
 --------------------------------------------------------------------
 
-purpose: A frontend application that help individuals to organize their expenses by year.
+purpose: A frontend application that helps individuals to organize their expenses by year.
 
 --------------------------------------------------------------------
 
